@@ -1,5 +1,5 @@
-# Projeto FootRouter Arduino CI 74HC595
-### Projeto FootRouter Arduino . 
+# Projeto FootRouter Arduino com Relays SPDT
+### Projeto FootRouter Arduino. 
 
 Projeto de um footswitch com base em um projeto encontrado no site [instructables](https://www.instructables.com/arduino-programable-5-pedal-switcher/).
 
