@@ -7,6 +7,8 @@ Projeto de um footswitch com base em um projeto encontrado no site [instructable
 
 O projeto inicial consiste em apenas uma placa Arduino Nano, 5 módulos Relays de 5V, 10 leds de variadas cores, e uma placa PCB caseira criada no software Proteus ISIS.
 
+Programado em C++, sistema com botões com duplafunção.
+
 #### Esquemático
 ![](https://github.com/lcrochaDEV/Projeto_FootSwetch_Arduino/blob/main/esquematico.PNG)
 
