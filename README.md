@@ -15,3 +15,16 @@ Segue links de artigos sobre o ULM 2003A
 
 ![](https://components101.com/sites/default/files/inline-images/ULN2003-testing-circuit.png)
 
+#### Materiais usado no projeto:
+
+01 - Arduino Nano  
+01 - CI LM7805  
+05 - Footswitch SPST Momentâneo  
+05 - Mini DC 5V 12V DPDT Relay Module Double Pole  
+12 - Resistores para os Leds  
+01 - Diodo  
+01 - Capacitor  
+01 - Gabinete Aluminio Diecast 1032L  
+01 - Conector Jack P4 Fêmea DC-022 5.5x2.1mm  
+14 - Jack P10 Fêmea Mono Circuito Fechado  
+01 - Chave HH Alavanca MTS102 2 Posições  
