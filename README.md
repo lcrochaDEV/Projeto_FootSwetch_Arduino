@@ -12,7 +12,7 @@ Programado em C++, sistema com botões com duplafunção.
 #### Esquemático
 ![](https://github.com/lcrochaDEV/Projeto_FootSwetch_Arduino/blob/main/esquematico.PNG)
 
-O CI ULM2003A que no esquamático aciona os Ralays pode ser opcional dependendo do modulo usado.
+O CI ULM2003A que no esquamático aciona os Ralays pode ser opcional dependendo do modulo usado, ou esquemas de ligações de preferência.
 
 Segue links de artigos sobre o ULM2003A
 1. [components101.com](https://components101.com/ics/stepper-motor-driver-ic-uln2003-pinout-datasheet)
